@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recent Ph.D. graduate specializing in a range of statistical and machine learning methods to solve real-world problems. This is a personal site to showcase types of projects I've worked on and associated code, primarily in R and Python. Some examples include:
+I'm a recent Ph.D. graduate specializing in a range of statistical and machine learning methods to solve real-world problems. This is a personal site to showcase types of projects I've worked on and associated code, primarily in R and Python. It's currently under construction as I clean and commit some of my code, but some examples will include:
 - microbiome analyses of airborne fungi using ITS1 amplicon sequences
 - machine learning algorithms to predict the occurrence of airborne fungal spores based on the environmental conditions
 - statistial analyses of crop disease surveys
